@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="368cff47-6a4b-44c7-8abd-a29dc75bc00c" name="Changes" comment="Alteração depois de ter clonado">
+    <list default="true" id="368cff47-6a4b-44c7-8abd-a29dc75bc00c" name="Changes" comment="primeiro comit">
+      <change afterPath="$PROJECT_DIR$/exercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/variavel.py" beforeDir="false" afterPath="$PROJECT_DIR$/variavel.py" afterDir="false" />
     </list>
@@ -41,7 +43,49 @@
     &quot;last_opened_file_path&quot;: &quot;C:/alysonbruno/OlaMundo&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.variavel">
+  <component name="RunManager" selected="Python.exercicio02">
+    <configuration name="exercicio01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OlaMundo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OlaMundo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OlaMundo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio02" />
+        <item itemvalue="Python.exercicio01" />
         <item itemvalue="Python.variavel" />
         <item itemvalue="Python.hello_world" />
       </list>
@@ -142,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690814188431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="primeiro comit">
+      <created>1690892413536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690892413536</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +213,8 @@
     <MESSAGE value="projeto criado e mensagem inicial para o usuário pronta" />
     <MESSAGE value="Incluidas três variáveis no hello_world.py" />
     <MESSAGE value="Alteração depois de ter clonado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alteração depois de ter clonado" />
+    <MESSAGE value="primeiro comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro comit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

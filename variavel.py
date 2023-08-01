@@ -8,7 +8,7 @@ comentário
 permite que várias linhas se tornem um comentário
 '''
 
-# print("Olà,",nome,".Tudo bem com você?")
+# print("Olà,", nome,".Tudo bem com você?")
 
 # print(type(nome))
 
